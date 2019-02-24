@@ -1,3 +1,4 @@
+import "babel-polyfill"
 import Vue from 'vue'
 import MyToDoModule from './lib/my-to-do-module.common'
 import mockHttp from './mock/http'
